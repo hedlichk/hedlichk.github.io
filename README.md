@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Kirk Hedlich
 
-You can use the [editor on GitHub](https://github.com/hedlichk/hedlichk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Personal Interests
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Cooking
+* Biking
+* Finding new brew pubs or unique food venues
+* Travel and experiencing new things
 
-### Markdown
+## Technical Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Progressive experience in software quality, testing and all things related to breaking and find weaknesses in systems.
+* Committed to software systems engineering through quality design, control, implementation.  
+* Problem solving, in particular finding the root cause of challenging technical problems
+* Ability to program in Java, C, C++, VBA
+* Good working knowledge in SQL, TCP/IP, Windows/Linux/Mac OS
+* Extensive experience in both hardware and operating systems for client/server/mobile platforms
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hedlichk/hedlichk.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Favorite meme
+Such a true statement ... [IT Crowd ... Typical Tech Support](https://imgflip.com/i/3slcbl)
